@@ -1,8 +1,8 @@
 <div align="center">
   <br />
-    <a href="https://youtu.be/B91wc5dCEBA" target="_blank">
+    <!-- <a href="https://youtu.be/B91wc5dCEBA" target="_blank"> -->
       <img src="https://i.ibb.co/Kqdv8j1/Image-from.png" alt="Project Banner">
-    </a>
+    <!-- </a> -->
   <br />
 
   <div>
@@ -23,7 +23,6 @@
 4. 🤸 [Quick Start](#quick-start)
 5. 🕸️ [Snippets](#snippets)
 6. 🔗 [Links](#links)
-7. 🚀 [More](#more)
 
 ## <a name="introduction">🤖 Introduction</a>
 
@@ -66,8 +65,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/JavaScript-Mastery-Pro/brainwave.git
-cd brainwave
+git clone https://github.com/ajeet8395/Brainwave
+cd Brainwave
 ```
 
 **Installation**
